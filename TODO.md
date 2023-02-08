@@ -1,0 +1,21 @@
+- Login (Plain HTML + JS)
+    - About This Shop Page
+    - Redirect to Login / About
+    - Input Field Validation
+    - Password Field
+    - Register in LocalStorage
+- Login (React)
+    - Input Field Validation
+    - Login to LocalStorage
+    - Show User Page
+- All Products
+    - Install React - How to get started
+    - Basic State Management and Effects
+    - API FakeStore Connection
+    - Show all products as list
+    - Show single product
+    - Sort by
+    - Carousel - How to use npm packages
+- Add to basket
+- Your basket
+- Checkout
